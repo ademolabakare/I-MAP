@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "name": "points",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "OBJECTID": 1, "state": "Osun", "lga": "Atakumosa East", "ward": "Odogbo", "uid": 46166944, "facility_c": "29\/03\/1\/1\/1\/0002", "facility_n": "Aguda Primary Health Centre", "reg_number": null, "start_date": "1998\/01\/04", "ownership": "Public", "facility_l": "Primary", "longitude": 4.78772, "latitude": 7.4383, "operation_": "Operational", "registrati": "Registered", "license_st": "Licensed", "created": "2018\/01\/01", "last_updat": "2019\/10\/13" }, "geometry": { "type": "Point", "coordinates": [ 4.787719999778233, 7.438299999645324, 0.0 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 2, "state": "Osun", "lga": "Atakumosa East", "ward": "Ajebandele", "uid": 65880303, "facility_c": "29\/03\/1\/1\/1\/0003", "facility_n": "Ajebandele Primary Health Centre", "reg_number": null, "start_date": "1990\/12\/04", "ownership": "Public", "facility_l": "Primary", "longitude": 4.70781, "latitude": 7.40664, "operation_": "Operational", "registrati": "Registered", "license_st": "Licensed", "created": "2018\/01\/01", "last_updat": "2019\/10\/13" }, "geometry": { "type": "Point", "coordinates": [ 4.707810000131474, 7.406640000135951, 0.0 ] } },
