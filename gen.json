@@ -1,0 +1,777 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-09-27T14:16:39Z",
+    "timestamp_areas_base": "2024-09-24T16:29:52Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3352119181,
+  "lat": 7.7255405,
+  "lon": 4.5058545,
+  "tags": {
+    "addr:street": "Gbongan - Osogbo Road",
+    "amenity": "police",
+    "name": "Nigerian Police Zonal Headquater"
+  }
+},
+{
+  "type": "node",
+  "id": 3358483583,
+  "lat": 7.7642358,
+  "lon": 4.5349776,
+  "tags": {
+    "addr:city": "Osogbo",
+    "addr:street": "Gbongan - Osogbo Road",
+    "amenity": "pharmacy",
+    "name": "Havilah Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 3358487422,
+  "lat": 7.7686348,
+  "lon": 4.5446725,
+  "tags": {
+    "addr:city": "Osogbo",
+    "amenity": "school",
+    "name": "Baptist Girls High School"
+  }
+},
+{
+  "type": "node",
+  "id": 3391696939,
+  "lat": 7.7772012,
+  "lon": 4.5526280,
+  "tags": {
+    "addr:city": "Osogbo",
+    "amenity": "pharmacy",
+    "name": "AKOL Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 3409200092,
+  "lat": 7.8960114,
+  "lon": 4.3200203,
+  "tags": {
+    "addr:city": "Ejigbo",
+    "amenity": "school",
+    "name": "Oke Moyo Baptist Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 3409220893,
+  "lat": 7.9026892,
+  "lon": 4.3135253,
+  "tags": {
+    "addr:city": "Ejigbo",
+    "amenity": "townhall",
+    "baby_feeding": "no",
+    "check_date": "2024-06-10",
+    "description": "Beside Ejigbo king palace",
+    "name": "Ejigbo Town Hall",
+    "smoking": "no",
+    "townhall:type": "town",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3703244315,
+  "lat": 7.7524151,
+  "lon": 4.4401020,
+  "tags": {
+    "amenity": "police",
+    "name": "Federal Road Safety Corp, Ede Office",
+    "operator": "FRSC"
+  }
+},
+{
+  "type": "node",
+  "id": 3793175078,
+  "lat": 7.7685568,
+  "lon": 4.3921876,
+  "tags": {
+    "addr:city": "Awo",
+    "addr:street": "Awo Road",
+    "amenity": "police",
+    "name": "Nigeria Police Force Station"
+  }
+},
+{
+  "type": "node",
+  "id": 3794573073,
+  "lat": 7.8290493,
+  "lon": 4.3402658,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 3799232987,
+  "lat": 7.7518865,
+  "lon": 4.5209658,
+  "tags": {
+    "addr:city": "Osogbo",
+    "addr:street": "Gbongan - Osogbo Road",
+    "amenity": "police",
+    "name": "Nigeria Police Force"
+  }
+},
+{
+  "type": "node",
+  "id": 3799233011,
+  "lat": 7.7486703,
+  "lon": 4.5165695,
+  "tags": {
+    "addr:city": "Osogbo",
+    "addr:street": "Gbongan - Osogbo Road",
+    "amenity": "school",
+    "name": "Ataoja School of Science"
+  }
+},
+{
+  "type": "node",
+  "id": 3819120357,
+  "lat": 7.7674812,
+  "lon": 4.5526194,
+  "tags": {
+    "addr:city": "Osogbo",
+    "amenity": "school",
+    "name": "Oke Okanla Baptist Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 3869917572,
+  "lat": 7.8774478,
+  "lon": 4.3447770,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 3885537620,
+  "lat": 7.7155972,
+  "lon": 4.4899226,
+  "tags": {
+    "addr:city": "Owode",
+    "amenity": "clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 3885537621,
+  "lat": 7.7146111,
+  "lon": 4.4889517,
+  "tags": {
+    "addr:city": "Owode",
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 3932979895,
+  "lat": 7.7173884,
+  "lon": 4.4898376,
+  "tags": {
+    "amenity": "school",
+    "name": "Great-Elsaadai Schools"
+  }
+},
+{
+  "type": "node",
+  "id": 4198918402,
+  "lat": 7.8945588,
+  "lon": 4.3073706,
+  "tags": {
+    "addr:city": "Ejigbo",
+    "addr:street": "Iwo - Ejigbo Road",
+    "amenity": "police",
+    "check_date": "2024-06-10",
+    "name": "Nigeria Police Station( EJIGBO)",
+    "operator": "Nigeria Police Force",
+    "source": "local knowledge",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5688128327,
+  "lat": 7.5055381,
+  "lon": 4.5244611,
+  "tags": {
+    "addr:city": "Ile-Ife",
+    "amenity": "university",
+    "internet_access": "wlan",
+    "name": "AFRIGIST (Ex. RECTAS) O.A.U Campus Ile-Ife",
+    "operator": "African Regional Institute For Geospatial Information Science and Technology",
+    "operator:type": "public",
+    "website": "https://afrigist.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 5847365477,
+  "lat": 7.4926478,
+  "lon": 4.5561480,
+  "tags": {
+    "addr:city": "Ile-Ife",
+    "addr:street": "Road 7, Sabo",
+    "amenity": "school",
+    "name": "St. Peter's Government Elementary School"
+  }
+},
+{
+  "type": "node",
+  "id": 5847365478,
+  "lat": 7.4940759,
+  "lon": 4.5530752,
+  "tags": {
+    "amenity": "school",
+    "name": "Oranmiyan Grammar School"
+  }
+},
+{
+  "type": "node",
+  "id": 6587513081,
+  "lat": 7.9034829,
+  "lon": 4.3132613,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 6587513083,
+  "lat": 7.9034499,
+  "lon": 4.3130001,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 6588450085,
+  "lat": 7.8885108,
+  "lon": 4.3223799,
+  "tags": {
+    "amenity": "school",
+    "name": "Unity School, Ejigbo"
+  }
+},
+{
+  "type": "node",
+  "id": 6611244036,
+  "lat": 7.8969116,
+  "lon": 4.3194213,
+  "tags": {
+    "amenity": "school",
+    "name": "Baptist High School, Ejigbo"
+  }
+},
+{
+  "type": "node",
+  "id": 7924890768,
+  "lat": 7.8349846,
+  "lon": 4.4806480,
+  "tags": {
+    "addr:city": "Ilobu",
+    "addr:housenumber": "2",
+    "addr:street": "Idi kaka road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Aromiwe Primary Health Care",
+    "operator": "State Government",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 7924926068,
+  "lat": 7.8414946,
+  "lon": 4.4826248,
+  "tags": {
+    "addr:city": "Ilobu",
+    "addr:street": "Kuelu area",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "primary_care",
+    "name": "Kuelu Primary Health Care",
+    "operator": "State government",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 7956218500,
+  "lat": 7.6781633,
+  "lon": 4.4600885,
+  "tags": {
+    "amenity": "college",
+    "name": "Redeemers University, Ede"
+  }
+},
+{
+  "type": "node",
+  "id": 7956225498,
+  "lat": 7.5419277,
+  "lon": 4.4703772,
+  "tags": {
+    "amenity": "college",
+    "name": "Obafemi Awolowo University, Moro Campus"
+  }
+},
+{
+  "type": "node",
+  "id": 7956225898,
+  "lat": 7.6932089,
+  "lon": 4.4529159,
+  "tags": {
+    "amenity": "hospital",
+    "name": "The Muslim Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 8437381317,
+  "lat": 7.5991884,
+  "lon": 4.1886721,
+  "tags": {
+    "addr:street": "Olupona - Iwo Road",
+    "amenity": "school",
+    "name": "Bowen University"
+  }
+},
+{
+  "type": "node",
+  "id": 9808539360,
+  "lat": 7.7836394,
+  "lon": 4.4904326,
+  "tags": {
+    "amenity": "school",
+    "name": "Ido-Osun High School, Ido-Osun",
+    "operator": "Government",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 9808539361,
+  "lat": 7.7815027,
+  "lon": 4.4905721,
+  "tags": {
+    "amenity": "school",
+    "name": "Islahudeen Model College, Ido-Osun",
+    "operator": "Private",
+    "operator:type": "private",
+    "religion": "muslim"
+  }
+},
+{
+  "type": "node",
+  "id": 9808539362,
+  "lat": 7.7796194,
+  "lon": 4.4885138,
+  "tags": {
+    "amenity": "school",
+    "name": "St.Paul Anglican Primary School, Ido-Osun",
+    "operator": "Government",
+    "operator:type": "government",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 9808539363,
+  "lat": 7.7799185,
+  "lon": 4.4876327,
+  "tags": {
+    "amenity": "school",
+    "name": "Islahudeen Nur & Pri School, Ido-Osun",
+    "operator": "Private",
+    "operator:type": "private",
+    "religion": "muslim"
+  }
+},
+{
+  "type": "node",
+  "id": 9808539368,
+  "lat": 7.7804168,
+  "lon": 4.4816059,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Ido-Osun Town Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 9808539369,
+  "lat": 7.7835788,
+  "lon": 4.4855129,
+  "tags": {
+    "amenity": "school",
+    "name": "Young Tajudeen Primary School, Ido-Osun",
+    "operator": "Government",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 9808539370,
+  "lat": 7.7833653,
+  "lon": 4.4867772,
+  "tags": {
+    "amenity": "school",
+    "name": "Muslim Model College, Ido-Osun",
+    "operator": "Government",
+    "operator:type": "government",
+    "religion": "muslim"
+  }
+},
+{
+  "type": "node",
+  "id": 9808539371,
+  "lat": 7.7846664,
+  "lon": 4.4860983,
+  "tags": {
+    "amenity": "school",
+    "name": "Nomadic",
+    "operator": "Government",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 9817020457,
+  "lat": 7.7807510,
+  "lon": 4.5025624,
+  "tags": {
+    "amenity": "school",
+    "grades": "1-7",
+    "name": "St. George's RCM Primary School, Ofatedo",
+    "operator": "Government"
+  }
+},
+{
+  "type": "node",
+  "id": 11737904226,
+  "lat": 7.8249254,
+  "lon": 4.1250148,
+  "tags": {
+    "amenity": "school",
+    "name": "GOF Secondary School"
+  }
+},
+{
+  "type": "node",
+  "id": 11737904227,
+  "lat": 7.8300426,
+  "lon": 4.1296752,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Patent Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 11737926883,
+  "lat": 7.8309188,
+  "lon": 4.1296242,
+  "tags": {
+    "amenity": "police",
+    "name": "Police station"
+  }
+},
+{
+  "type": "node",
+  "id": 11737939133,
+  "lat": 7.8330618,
+  "lon": 4.1329837,
+  "tags": {
+    "amenity": "courthouse",
+    "name": "Court",
+    "religion": "muslim"
+  }
+},
+{
+  "type": "node",
+  "id": 11737939134,
+  "lat": 7.8343824,
+  "lon": 4.1354942,
+  "tags": {
+    "amenity": "school",
+    "name": "Anglican Grammar School"
+  }
+},
+{
+  "type": "node",
+  "id": 11737939143,
+  "lat": 7.8325290,
+  "lon": 4.1364156,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maternity Center",
+    "religion": "muslim"
+  }
+},
+{
+  "type": "node",
+  "id": 11737939482,
+  "lat": 7.8220051,
+  "lon": 4.1221609,
+  "tags": {
+    "amenity": "school",
+    "name": "Faith Foundation Group of Schools"
+  }
+},
+{
+  "type": "node",
+  "id": 11737946619,
+  "lat": 7.8302983,
+  "lon": 4.1276246,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Town Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 11805230415,
+  "lat": 7.7494054,
+  "lon": 4.4390101,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "The Muslim Hospital Annex"
+  }
+},
+{
+  "type": "node",
+  "id": 11940681532,
+  "lat": 7.6297321,
+  "lon": 4.1674994,
+  "tags": {
+    "amenity": "school",
+    "name": "Aipate Baptist Church Grammar School"
+  }
+},
+{
+  "type": "node",
+  "id": 11940703797,
+  "lat": 7.6347743,
+  "lon": 4.1816205,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Muttex Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 11940703808,
+  "lat": 7.6510540,
+  "lon": 4.1805547,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Feesu"
+  }
+},
+{
+  "type": "node",
+  "id": 11940703814,
+  "lat": 7.6452013,
+  "lon": 4.1713595,
+  "tags": {
+    "amenity": "school",
+    "name": "Federal college of Education"
+  }
+},
+{
+  "type": "node",
+  "id": 11940706223,
+  "lat": 7.6308352,
+  "lon": 4.1765071,
+  "tags": {
+    "amenity": "school",
+    "name": "Excellent Model Nur & Pry. School"
+  }
+},
+{
+  "type": "node",
+  "id": 11940706244,
+  "lat": 7.6343063,
+  "lon": 4.1794949,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Iwo City Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 11944678276,
+  "lat": 7.6303007,
+  "lon": 4.1639074,
+  "tags": {
+    "amenity": "school",
+    "name": "Baptist High school"
+  }
+},
+{
+  "type": "node",
+  "id": 11944678278,
+  "lat": 7.6455804,
+  "lon": 4.1656569,
+  "tags": {
+    "amenity": "university",
+    "name": "National Open University"
+  }
+},
+{
+  "type": "node",
+  "id": 11944678279,
+  "lat": 7.6497327,
+  "lon": 4.1611873,
+  "tags": {
+    "amenity": "college",
+    "name": "Newton College"
+  }
+},
+{
+  "type": "node",
+  "id": 11944678280,
+  "lat": 7.6418101,
+  "lon": 4.1670420,
+  "tags": {
+    "amenity": "college",
+    "name": "The wings school"
+  }
+},
+{
+  "type": "node",
+  "id": 11944678284,
+  "lat": 7.6539059,
+  "lon": 4.1764623,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "KML Muslim Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 11944678286,
+  "lat": 7.6512762,
+  "lon": 4.1742411,
+  "tags": {
+    "amenity": "college",
+    "name": "Vico Hope International College"
+  }
+},
+{
+  "type": "node",
+  "id": 11944729344,
+  "lat": 7.6449099,
+  "lon": 4.1775503,
+  "tags": {
+    "addr:street": "Morinu",
+    "amenity": "school",
+    "name": "D.C School"
+  }
+},
+{
+  "type": "node",
+  "id": 11944898086,
+  "lat": 7.6397422,
+  "lon": 4.1705487,
+  "tags": {
+    "amenity": "school",
+    "name": "Regina Mundi Girls Secondary School"
+  }
+},
+{
+  "type": "node",
+  "id": 11944898087,
+  "lat": 7.6389008,
+  "lon": 4.1698780,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Saint Zeno Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 11968658948,
+  "lat": 7.9014020,
+  "lon": 4.3148204,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-06-10",
+    "healthcare": "pharmacy",
+    "name": "Sowaaf(Omo Daddy)",
+    "opening_hours": "Mo-Sa 09:00-23:00  Sunday 3 - 23:00",
+    "payment:cash": "yes",
+    "source": "local knowledge",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11968941797,
+  "lat": 7.9051167,
+  "lon": 4.3142863,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-06-10",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "name": "Adebayo",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "source": "local knowledge",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11969222056,
+  "lat": 7.8981516,
+  "lon": 4.3155232,
+  "tags": {
+    "amenity": "school",
+    "check_date": "2024-06-10",
+    "internet_access": "no",
+    "name": "Idi Ape Baptist School",
+    "operator:type": "private",
+    "polling_station": "no",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 12093086827,
+  "lat": 7.5052070,
+  "lon": 4.5216309,
+  "tags": {
+    "addr:city": "Ile-Ife",
+    "addr:postcode": "220282",
+    "addr:street": "Off Road 1, OAU Campus",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Akingbade Health Bay"
+  }
+}
+
+  ]
+}
